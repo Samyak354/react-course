@@ -1,0 +1,16 @@
+body {
+   background: rgb(151, 149, 238);
+   margin-left: 10px;
+   letter-spacing: 0.7vw;
+}
+
+img {
+   border-radius: 50% 0 50% 0;
+   width: 200px;
+}
+
+.list {
+   display: grid;
+   grid-template-columns: auto auto;
+   grid-template-rows: auto auto auto;
+}
